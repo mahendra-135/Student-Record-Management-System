@@ -1,16 +1,16 @@
 # Student Record Management System
 
-This repository contains a simple Student Record Management System.
+A simple CLI-based application to manage student records using Python.
 
-Files:
-- Management.py — management functionality added by the user (placed at repository root).
+## Features
+- Add student
+- View all students
+- Search student by roll number
 
-Usage (run with Python 3.x):
+## Tech Stack
+- Python
+- File Handling
 
-```powershell
+## How to Run
+```bash
 python Management.py
-```
-
-Notes:
-- The file `Management.py` was uploaded from the user's local workspace.
-- Adjust or extend the project as needed. Contributions welcome.
